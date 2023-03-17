@@ -27,5 +27,7 @@ def circulate():
 ```    
 
 ## Output:
+![ex2output](https://user-images.githubusercontent.com/118956165/225949311-47b01168-0a0d-4515-ba67-2770e333da82.png)
+
 
 ## Result:
