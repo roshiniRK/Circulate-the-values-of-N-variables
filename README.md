@@ -33,3 +33,4 @@ def circulate():
 
 
 ## Result:
+Thus,to write a python program to circulate the n variables using function concept is successfully executed.
